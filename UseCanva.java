@@ -5,7 +5,7 @@ class UseCanva {
         Frame fr = new Frame("Square");
         Canvas C1 = new Canvas();
         C1.setSize(120, 120);
-        C1.setBackground(Color.BLUE);
+        C1.setBackground(Color.RED);
         fr.setLayout(new FlowLayout());
         fr.setVisible(true);
         fr.setSize(400, 400);
